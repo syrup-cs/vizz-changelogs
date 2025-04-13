@@ -11,7 +11,6 @@ Thanks for choosing vizz.cc! Our menu is completely undetected, yet, we are not 
 Changelogs
 -----------------
 
-We added the entire menu, some crash and lag mods, some cs sound spammers, and some optimizations for the menu, and for the user's enjoyment.
+We added the entire menu, some crash and lag mods, some cs sound spammers, and some optimizations.
 
-
-- <color=purple>vizz.cc team</color>
+-<color=purple>vizz.cc team</color>
