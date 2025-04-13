@@ -1,6 +1,17 @@
 
 
 
+
+
+Main Message
+-----------------
+
 Thanks for choosing vizz.cc! Our menu is completely undetected, yet, we are not responsible for any bans using our services.
 
-- vizz.cc team
+Changelogs
+-----------------
+
+We added the entire menu, some crash and lag mods, some cs sound spammers, and some optimizations for the menu, and for the user's enjoyment.
+
+
+- <color=purple>vizz.cc team</color>
